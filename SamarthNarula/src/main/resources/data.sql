@@ -1,0 +1,10 @@
+insert into library values(1,'kannad books, english books','literature books');
+insert into library values(2,'sun ,moon,saturn','space library');
+insert into library values(3,'','zoology library');
+insert into library values(4,'','Botany library');
+insert into library values(5,'red ,yellow,blue','star library');
+insert into library values(6,'tommy,brownie,zaro','dogs library');
+insert into library values(7,'xyz,abc,lmn','A library');
+insert into library values(8,'xyz,abc,lmn','B library');
+insert into library values(9,'xyz,abc,lmn','D library');
+insert into library values(10,'xyz,abc,lmn','C library');
